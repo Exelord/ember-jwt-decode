@@ -1,10 +1,17 @@
 # ember-jwt-decode
 
-This README outlines the details of collaborating on this Ember addon.
+This package is a wrapper of [jwt_decode](https://github.com/auth0/jwt-decode) for EmberJS applications.
+
+## Usage
+```js
+import jwtDecode from 'ember-jwt-decode';
+
+jwtDecode('your.awesome.token'); // returns token payload
+```
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/Exelord/ember-jwt-decode` this repository
 * `cd ember-jwt-decode`
 * `npm install`
 
