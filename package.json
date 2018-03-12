@@ -1,6 +1,6 @@
 {
   "name": "ember-jwt-decode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JWT Decode wrapper for EmberJS applications",
   "keywords": [
     "ember-addon",
